@@ -19,7 +19,7 @@ Este é um projeto simples de uma aplicação web para gerenciar uma lista de co
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/eduardosouuza/
+   git clone https://github.com/eduardosouuza/listadecompras
 
 ├── index.html        # Página principal do projeto
 ├── app.js            # Script principal em AngularJS
